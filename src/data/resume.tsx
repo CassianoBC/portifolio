@@ -2,28 +2,19 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Dillion Verma",
-  initials: "DV",
+  name: "Cassiano Borges",
+  initials: "CB",
   url: "https://dillion.io",
-  location: "San Francisco, CA",
+  location: "Torres, RS",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Software Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
+    "Sou estudante de programação na EBAC, com foco em desenvolvimento Fullstack. Busco sempre aprimorar minhas habilidades para oferecer soluções criativas e de alta performance.",
   summary:
-    "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-  avatarUrl: "/me.png",
+    "Desenvolvedor Fullstack em formação. Atuo principalmente no desenvolvimento de interfaces para web, com experiência em startups e projetos pessoais. Familiarizado com ambientes de trabalho remoto, estou sempre em busca de desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade dentro dos prazos. Tenho experiência com HTML, CSS, JavaScript e React, e estou confortável com o desenvolvimento de interfaces responsivas e otimização de performance.",
+  avatarUrl: "/me.jpg",
   skills: [
-    "React",
-    "Next.js",
-    "Typescript",
-    "Node.js",
-    "Python",
-    "Go",
-    "Postgres",
-    "Docker",
-    "Kubernetes",
-    "Java",
-    "C++",
+  "Javascript",
+  "React"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
