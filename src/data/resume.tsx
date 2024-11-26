@@ -33,7 +33,7 @@ export const DATA = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/cassiano-borges-costa-8253b42b0/",
+        url: "https://www.linkedin.com/in/cassianobc/",
         icon: Icons.linkedin,
 
         navbar: true,
