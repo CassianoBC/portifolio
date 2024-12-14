@@ -14,7 +14,10 @@ export const DATA = {
   avatarUrl: "/me.jpg",
   skills: [
   "Javascript",
-  "React"
+  "Typescript",
+  "ReactJS",
+  "NextJS",
+  "Bootstrap",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
