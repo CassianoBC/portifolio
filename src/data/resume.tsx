@@ -87,6 +87,14 @@ export const DATA = {
       start: "2024",
       end: "Presente",
     },
+    {
+      school: "Estácio",
+      href: "https://estacio.br/",
+      degree: "Bacharelado - Engenharia de Software",
+      logoUrl: "/Estácio_logo.png",
+      start: "2025",
+      end: "Presente",
+    }
   ],
   projects: [
     {
