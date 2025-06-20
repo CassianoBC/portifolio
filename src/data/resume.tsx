@@ -11,7 +11,7 @@ export const DATA = {
     "Sou estudante de programação na EBAC, com foco em desenvolvimento Fullstack. Busco sempre aprimorar minhas habilidades para oferecer soluções criativas e de alta performance.",
   summary:
     "Desenvolvedor Fullstack em formação. Atuo principalmente no desenvolvimento de interfaces para web, com experiência em startups e projetos pessoais. Familiarizado com ambientes de trabalho remoto, estou sempre em busca de desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade dentro dos prazos. Tenho experiência com HTML, CSS, JavaScript e React, e estou confortável com o desenvolvimento de interfaces responsivas e otimização de performance.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/IMG_0823.jpg",
   skills: [
   "Javascript",
   "Typescript",
@@ -70,7 +70,7 @@ export const DATA = {
       href: "https://github.com/teamrisecompany",
       badges: [],
       location: "Remote",
-      title: "Fullstack Developer",
+      title: "Frontend Developer",
       logoUrl: "/Riselogo.jpeg",
       start: "Nov 2024",
       end: "Presente",
