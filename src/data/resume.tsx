@@ -4,14 +4,14 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Cassiano Borges",
   initials: "CB",
-  url: "https://dillion.io",
+  url: "https://dillion.io", //Sou estudante de programação
   location: "Torres, RS",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "Sou estudante de programação na EBAC, com foco em desenvolvimento Fullstack. Busco sempre aprimorar minhas habilidades para oferecer soluções criativas e de alta performance.",
+    "Sou estudante de programação. Busco sempre aprimorar minhas habilidades para oferecer soluções criativas e de alta performance.",
   summary:
-    "Desenvolvedor Fullstack em formação. Atuo principalmente no desenvolvimento de interfaces para web, com experiência em startups e projetos pessoais. Familiarizado com ambientes de trabalho remoto, estou sempre em busca de desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade dentro dos prazos. Tenho experiência com HTML, CSS, JavaScript e React, e estou confortável com o desenvolvimento de interfaces responsivas e otimização de performance.",
-  avatarUrl: "/IMG_0823.jpg",
+    "Desenvolvedor Fullstack em formação. Gosto principalmente de desenvolver interfaces para web, com experiência em startups de amigos e projetos pessoais. Familiarizado com ambientes de trabalho remoto, estou sempre em busca de desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade dentro dos prazos. Tenho experiência com React, NextJS, Bootstrap e estou confortável com o desenvolvimento de interfaces responsivas e otimização de performance.",
+  avatarUrl: "/me.jpg",
   skills: [
   "Javascript",
   "Typescript",
@@ -75,7 +75,7 @@ export const DATA = {
       start: "Nov 2024",
       end: "Presente",
       description:
-        "Atuei como desenvolvedor FullStack, criando um LMS focado em programação, a RISE é uma empresa composta por jovens que amam desenvolver, e juntos buscam uma solução para contribuir com o ensino de tecnológia nas escolas do Brasil.",
+        "Atuo como desenvolvedor Frontend. a RISE é uma empresa composta por jovens que amam desenvolver, e juntos buscam uma solução para contribuir com o ensino de tecnológia nas escolas do Brasil.",
     },
   ],
   education: [
