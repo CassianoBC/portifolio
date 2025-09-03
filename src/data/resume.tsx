@@ -16,8 +16,6 @@ export const DATA = {
   "Javascript",
   "Typescript",
   "ReactJS",
-  "NextJS",
-  "Bootstrap",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
