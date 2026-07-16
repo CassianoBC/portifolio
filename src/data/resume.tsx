@@ -13,9 +13,13 @@ export const DATA = {
     "Desenvolvedor Fullstack em formação. Gosto principalmente de desenvolver interfaces para web, com experiência em startups de amigos e projetos pessoais. Familiarizado com ambientes de trabalho remoto, estou sempre em busca de desafios para aprimorar minhas habilidades e entregar soluções de alta qualidade dentro dos prazos. Tenho experiência com React, NextJS, Bootstrap e estou confortável com o desenvolvimento de interfaces responsivas e otimização de performance.",
   avatarUrl: "/me.jpg",
   skills: [
-  "Javascript",
+  "Node.js",
   "Typescript",
-  "ReactJS",
+  "React",
+  "Next.js",
+  "Vtex IO",
+  "SASS",
+  "TailwindCSS",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -71,15 +75,27 @@ export const DATA = {
       title: "Frontend Developer",
       logoUrl: "/Riselogo.jpeg",
       start: "Nov 2024",
+      end: "Jan 2025",
+      description:
+        "Atuei como desenvolvedor Frontend. a RISE é uma empresa composta por jovens que amam desenvolver, e juntos buscam uma solução para contribuir com o ensino de tecnológia nas escolas do Brasil.",
+    },
+    {
+      company: "Avanti",
+      href: "https://github.com/teamrisecompany",
+      badges: [],
+      location: "Remote",
+      title: "Trainee",
+      logoUrl: "/logo_avanti.png",
+      start: "Apr 2026",
       end: "Presente",
       description:
-        "Atuo como desenvolvedor Frontend. a RISE é uma empresa composta por jovens que amam desenvolver, e juntos buscam uma solução para contribuir com o ensino de tecnológia nas escolas do Brasil.",
+        "Atualmente, atuo como estagiário na Avanti, contribuindo para o desenvolvimento e a evolução de projetos de e-commerce. Trabalho com as tecnologias FastStore e Store Framework, criando e personalizando lojas virtuais, implementando melhorias e adquirindo experiência prática no ecossistema VTEX.ç",
     },
   ],
   education: [
     {
       school: "EBAC - Escola britânica de artes criativas",
-      href: "https://ebaconline.com.br/",
+      href: "https://penseavanti.com.br/",
       degree: "Curso Técnico",
       logoUrl: "/ebac.png",
       start: "2024",
